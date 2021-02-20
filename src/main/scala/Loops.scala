@@ -1,3 +1,0 @@
-object Loops extends App {
-
-}
