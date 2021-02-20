@@ -1,6 +1,6 @@
 import scala.io.StdIn.readLine
 
-object AgeCalcul extends App {
+object AgeCalc extends App {
   val myName = readLine ("What is your name?")
   val age = readLine (s"Hello $myName What is your age?").toInt
   println(s"I am $age too")
