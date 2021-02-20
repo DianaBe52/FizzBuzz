@@ -1,6 +1,6 @@
 import scala.io.StdIn.readLine
 
-object BonusCalculator extends App {
+object BonusCalcul extends App {
   val employee = readLine ("What is your name?")
   println(s"Nice to talk to you, $employee")
   val workExperience = readLine ("How many years have you worked for?").toFloat
